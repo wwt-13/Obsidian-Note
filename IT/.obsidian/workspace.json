@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note Skills/Latex.md",
+                "file": "Dairy/2023-03-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Skills/Latex.md",
+                "file": "Dairy/2023-03-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note Skills/Latex.md",
+                "file": "Dairy/2023-03-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Skills/Latex.md"
+                "file": "Dairy/2023-03-13.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "bd66daddb9bf8137",
   "lastOpenFiles": [
+    "Note Skills/Latex.md",
     "Operating System/Lab1-内核制作、启动和 printk.md",
     "assets/Pasted image 20230313132207.png",
     "assets/Pasted image 20230313131513.png",
@@ -191,7 +192,6 @@
     "assets/include.mk",
     "assets/Untitled.png",
     "assets/CleanShot 2023-03-10 at 17.13.36.png",
-    "Note Skills/Latex.md",
     "assets/ER转换关系表作业.pdf",
     "assets/ER转换关系表作业.docx",
     "Database/作业",
