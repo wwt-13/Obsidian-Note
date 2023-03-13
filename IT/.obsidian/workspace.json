@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "646fe25127393104",
+    "type": "split",
+    "children": [
+      {
+        "id": "d338432b566f4ee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd66daddb9bf8137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note Skills/Latex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4761605d072da05f",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d1cd050d8aa94b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "717547cacaaa4c5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f120ddc2b79c460",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4565fb334f87051",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8cb322ec8ddd88b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a55249a98d5e3f9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4297d48912cf7c8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Note Skills/Latex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7bb9caaacaf09f13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Note Skills/Latex.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2f89241e43ecb2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cabc71fbf5d2d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Note Skills/Latex.md"
+              }
+            }
+          },
+          {
+            "id": "5010a8639f962293",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "bd66daddb9bf8137",
+  "lastOpenFiles": [
+    "Operating System/Lab1-内核制作、启动和 printk.md",
+    "assets/Pasted image 20230313132207.png",
+    "assets/Pasted image 20230313131513.png",
+    "assets/CleanShot 2023-03-13 at 12.58.20.png",
+    "Note Skills/Obsidian Useage.md",
+    "assets/Pasted image 20230313123059.png",
+    "Operating System/Lab0-Linux、Git、make等基础知识.md",
+    "assets/Pasted image 20230313120332.png",
+    "Dairy/2023-03-13.md",
+    "Operating System/Lab2-内存管理.md",
+    "Operating System/Lab6-管道和命令解释程序.md",
+    "Operating System/Lab5-文件系统.md",
+    "Operating System/Lab4-系统调用与fork.md",
+    "Operating System/Lab3-进程与异常.md",
+    "Operating System/MIPS Calling Convention.md",
+    "assets/CleanShot 2023-03-11 at 20.26.46.png",
+    "Dairy/2023-03-10.md",
+    "Dairy/2023-03-08.md",
+    "assets/CleanShot 2023-03-11 at 19.10.03.png",
+    "assets/CleanShot 2023-03-11 at 19.09.29.png",
+    "Database/数据库基本介绍.md",
+    "Database/关系模型.md",
+    "Database/作业/数据库作业_3.md",
+    "Database/MySQL.md",
+    "Note Skills/Mermaid.md",
+    "Database/作业/数据库作业_1.md",
+    "assets/GNU make3.8手册_CN.pdf",
+    "assets/guide-book_2023-0.pdf",
+    "Database/作业/数据库作业_2.md",
+    "assets/Makefile",
+    "assets/include.mk",
+    "assets/Untitled.png",
+    "assets/CleanShot 2023-03-10 at 17.13.36.png",
+    "Note Skills/Latex.md",
+    "assets/ER转换关系表作业.pdf",
+    "assets/ER转换关系表作业.docx",
+    "Database/作业",
+    "Database/未命名.md",
+    "Note Skills/Samples/TEST1.md",
+    "assets/猫走路wallp.mp4",
+    "未命名.canvas",
+    "assets",
+    "Dairy",
+    "test.md"
+  ]
+}

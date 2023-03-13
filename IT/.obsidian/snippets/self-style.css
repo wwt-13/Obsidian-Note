@@ -1,0 +1,19 @@
+/* 设置inline-code在editor和viewer下的样式 */
+.cm-s-obsidian span.cm-inline-code {
+    color: rgb(218, 97, 92);
+    font-style: italic;
+}
+/* 设置所有viewer下的code */
+.markdown-rendered code {
+    color: rgb(218, 97, 92);
+    font-style: italic;
+}
+
+.cm-s-obsidian span.cm-quote {
+    font-style: italic;
+}
+.callout {
+    font-family: "思源黑体 VF";
+    font-weight: bold;
+    font-style: italic;
+}

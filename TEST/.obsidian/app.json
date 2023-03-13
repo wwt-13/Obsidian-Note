@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": true,
+  "showFrontmatter": true,
+  "showLineNumber": true
+}

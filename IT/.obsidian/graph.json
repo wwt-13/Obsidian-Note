@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#OS",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
+      }
+    },
+    {
+      "query": "tag:#Database",
+      "color": {
+        "a": 1,
+        "rgb": 7405055
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.8,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.715087890625,
+  "collapse-forces": false,
+  "centerStrength": 0.6815185546875,
+  "repelStrength": 13.0094401041667,
+  "linkStrength": 0.588541666666667,
+  "linkDistance": 30,
+  "scale": 1.4210600308144232,
+  "close": true
+}

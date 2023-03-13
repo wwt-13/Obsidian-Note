@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "140ea11d71f3cb81",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb892318c8e85e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dbc98ba5e1eb455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TESTFILE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f36294f43819617f",
+    "type": "split",
+    "children": [
+      {
+        "id": "83dfcb19f5fbc5a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ca6b19f4ea20fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "602e96dd212e3320",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#tracking",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38992353e25fe0bd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "right": {
+    "id": "c1c3ac1b088889b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc56577acc99eb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efce8864360b2362",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TESTFILE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b81f230c1c3971da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TESTFILE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae90455924aafb55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4e0fbfa29c6cf04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TESTFILE.md"
+              }
+            }
+          },
+          {
+            "id": "2fbef04435c5fc3e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "8dbc98ba5e1eb455",
+  "lastOpenFiles": [
+    "TESTFILE 1.md",
+    "TESTFILE.md",
+    "Obsidian使用.md",
+    "file/Users/wwt13/Documents/WPS/操作系统/BUAA操作系统/课件/孙海龙老师课件/2-boot.pdf.md",
+    "[.md",
+    "百度.md",
+    "attachments/Pasted image 20230308120958.png",
+    "_notion-like-tables/table-id-D1UrHl.md",
+    "_notion-like-tables",
+    "attachments/guide-book_2023-0.pdf",
+    "file/Users/wwt13/Documents/WPS/操作系统/BUAA操作系统/课件/孙海龙老师课件/2-boot.pdf 1.md",
+    "templates/Meetings.md",
+    "file/Users/wwt13/Documents/WPS/操作系统/BUAA操作系统/课件/孙海龙老师课件",
+    "file/Users/wwt13/Documents/WPS/操作系统/BUAA操作系统/课件",
+    "file/Users/wwt13/Documents/WPS/操作系统/BUAA操作系统",
+    "file/Users/wwt13/Documents/WPS/操作系统",
+    "file/Users/wwt13/Documents/WPS",
+    "file/Users/wwt13/Documents",
+    "file/Users/wwt13",
+    "file/Users",
+    "Users/wwt13/Documents/WPS/操作系统/BUAA操作系统/课件/孙海龙老师课件/2-boot.pdf.md",
+    "file.md",
+    "文件名.png.md",
+    "canvas/未命名.canvas",
+    "attachments/未命名.canvas",
+    "templates/未命名 1.md",
+    "test2.sql.md"
+  ]
+}
